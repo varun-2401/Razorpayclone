@@ -1,2 +1,3 @@
-# Razorpayclone
-I leveraged my web development skills and knowledge of front-end technologies to recreate the user interface of Rozarpay's website I meticulously studied the original website, ensuring that the clone closely resembled the layout, color scheme, and overall aesthetics of the original design.
+# esbuild
+
+This is the macOS ARM 64-bit binary for esbuild, a JavaScript bundler and minifier. See https://github.com/evanw/esbuild for details.
